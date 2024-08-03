@@ -20,7 +20,7 @@ This Password Manager application is a simple tool to securely store, retrieve, 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/password-manager.git
+   git clone https://github.com/kxngHADES/password-manager.git
    cd password-manager
    ```
 
